@@ -1,0 +1,159 @@
+@question How many different ways can 4 students be arranged in a line for a school photo?
+@instruction Choose the correct answer from the options below.
+@difficulty moderate
+@Order 1
+
+@option 12
+@option 24
+@@option 48
+@option 60
+
+@explanation The number of arrangements of 4 students is calculated as \(4! = 4 \times 3 \times 2 \times 1 = 24\).
+@subject Quantitative Math
+@unit Data Analysis & Probability
+@topic Counting & Arrangement Problems
+@plusmarks 1
+
+@question A bag contains 5 red balls and 3 blue balls. If you draw one ball, replace it, and then draw another ball, what is the probability of drawing two red balls?
+@instruction Choose the correct answer from the options below.
+@difficulty moderate
+@Order 2
+
+@option \(\frac{1}{4}\)
+@option \(\frac{5}{8}\)
+@@option \(\frac{25}{64}\)
+@option \(\frac{15}{64}\)
+
+@explanation The probability of drawing a red ball is \(\frac{5}{8}\). Since the draws are independent, the probability of drawing two red balls is \(\left(\frac{5}{8}\right) \times \left(\frac{5}{8}\right) = \frac{25}{64}\).
+@subject Quantitative Math
+@unit Data Analysis & Probability
+@topic Probability with Replacement & Without Replacement
+@plusmarks 1
+
+@question What is the circumference of a circle with a radius of 7 cm?
+@instruction Choose the correct answer from the options below.
+@difficulty easy
+@Order 3
+
+@option 14 cm
+@option 21 cm
+@@option 44 cm
+@option 49 cm
+
+@explanation The circumference of a circle is calculated using the formula \(C = 2\pi r\). For a radius of 7 cm, \(C = 2 \times \pi \times 7 \approx 44\) cm.
+@subject Quantitative Math
+@unit Geometry and Measurement
+@topic Circles (Area, circumference)
+@plusmarks 1
+
+@question What is the volume of a rectangular prism with a length of 5 cm, width of 3 cm, and height of 4 cm?
+@instruction Choose the correct answer from the options below.
+@difficulty easy
+@Order 4
+
+@option 60 cm³
+@option 20 cm³
+@option 15 cm³
+@@option 60 cm³
+
+@explanation The volume of a rectangular prism is calculated using the formula \(V = l \times w \times h\). Thus, \(V = 5 \times 3 \times 4 = 60\) cm³.
+@subject Quantitative Math
+@unit Geometry and Measurement
+@topic Volume & Surface Area
+@plusmarks 1
+
+@question What is \( \frac{3}{4} + \frac{2}{5} \)?
+@instruction Choose the correct answer from the options below.
+@difficulty moderate
+@Order 5
+
+@option \(\frac{23}{20}\)
+@option \(\frac{17}{20}\)
+@@option \(\frac{31}{20}\)
+@option \(\frac{11}{20}\)
+
+@explanation To add the fractions, find a common denominator: \( \frac{3}{4} = \frac{15}{20} \) and \( \frac{2}{5} = \frac{8}{20} \). Thus, \( \frac{15}{20} + \frac{8}{20} = \frac{23}{20} \).
+@subject Quantitative Math
+@unit Number & Operations
+@topic Fractions & Decimals
+@plusmarks 1
+
+@question Which of the following patterns continues the sequence: 2, 4, 8, 16, ...?
+@instruction Choose the correct answer from the options below.
+@difficulty moderate
+@Order 6
+
+@option 20
+@option 24
+@@option 32
+@option 36
+
+@explanation The pattern doubles each time: \(2 \times 2 = 4\), \(4 \times 2 = 8\), \(8 \times 2 = 16\), \(16 \times 2 = 32\).
+@subject Logical Reasoning
+@unit Analytical Reasoning
+@topic Pattern Recognition
+@plusmarks 1
+
+@question What number should come next in the series: 3, 6, 12, 24, ...?
+@instruction Choose the correct answer from the options below.
+@difficulty moderate
+@Order 7
+
+@option 36
+@option 48
+@@option 60
+@option 72
+
+@explanation The series multiplies each term by 2: \(3 \times 2 = 6\), \(6 \times 2 = 12\), \(12 \times 2 = 24\), \(24 \times 2 = 48\).
+@subject Logical Reasoning
+@unit Analytical Reasoning
+@topic Series Completion
+@plusmarks 1
+
+@question All cats are mammals. Some mammals are not dogs. Therefore, some cats are not dogs. Is this conclusion valid?
+@instruction Choose the correct answer from the options below.
+@difficulty hard
+@Order 8
+
+@option Yes
+@@option No
+@option Cannot be determined
+@option True
+
+@explanation The conclusion does not necessarily follow from the premises. Just because some mammals are not dogs does not imply that some cats are not dogs.
+@subject Logical Reasoning
+@unit Deductive Reasoning
+@topic Syllogisms
+@plusmarks 1
+
+@question Which word is a synonym for "happy"?
+@instruction Choose the correct answer from the options below.
+@difficulty easy
+@Order 9
+
+@option Sad
+@option Angry
+@@option Joyful
+@option Tired
+
+@explanation "Joyful" is a synonym for "happy."
+@subject Verbal Reasoning
+@unit Vocabulary
+@topic Synonyms & Antonyms
+@plusmarks 1
+
+@question Based on the passage, what can be inferred about the main character's feelings towards the situation?
+@instruction Choose the correct answer from the options below.
+@difficulty hard
+@Order 10
+
+@option They are indifferent.
+@option They are excited.
+@option They are angry.
+@@option They are anxious.
+
+@explanation The passage suggests that the main character is worried about the outcome, indicating anxiety.
+@subject Verbal Reasoning
+@unit Reading Comprehension
+@topic Inference Questions
+@plusmarks 1
